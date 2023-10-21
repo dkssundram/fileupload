@@ -17,9 +17,12 @@ The File Submission Portal is a simple Node.js application that allows users to 
    
    git clone [https://github.com/dkssundram/fileupload.git](https://github.com/dkssundram/fileupload.git)
 2. Navigate to the project directory
-3. Install project dependencies:
+
+4. Install project dependencies:
+   
    npm install
-4. Start the application:
+5. Start the application:
+   
    node App.js
 
 The application will be running on http://localhost:8080.
